@@ -2,19 +2,6 @@
 
 Este é um projeto de uma API para gerenciamento de usuários e contas utilizando Flask e SQLAlchemy.
 
-## Estrutura do Diretório
-
-app/
-├── models/
-│ ├── init.py
-├── routes/
-│ ├── default.py
-├── instance/
-│ └── taskmanager.db
-├── init.py
-└── run.py
-
-
 - **models/**: Contém os modelos de dados (`User` e `Account`) definidos com SQLAlchemy.
 - **routes/**: Contém os arquivos que definem as rotas da API (`default.py` neste caso).
 - **instance/**: Diretório onde o arquivo do banco de dados SQLite (`taskmanager.db`) é criado.
