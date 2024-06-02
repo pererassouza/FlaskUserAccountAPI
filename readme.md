@@ -1,4 +1,4 @@
-# Task Manager API
+# Flask User Account API
 
 Este é um projeto de uma API para gerenciamento de usuários e contas utilizando Flask e SQLAlchemy.
 
